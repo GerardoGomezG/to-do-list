@@ -2,7 +2,7 @@
   "name": "todolist",
   "version": "1.0.0",
   "description": "> The goal here is to master all of the tools and best practices about WebPack, ES6 syntax and modules.",
-  "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "husky install"
