@@ -45,5 +45,9 @@
   "browser": {
     "path": false,
     "stream": false
+  },
+  "dependencies": {
+    "path": "^0.12.7",
+    "stream": "^0.0.2"
   }
 }
