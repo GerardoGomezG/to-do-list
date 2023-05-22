@@ -41,5 +41,9 @@
     "*.(html)": [
       "hint"
     ]
+  },
+  "browser": {
+    "path": false,
+    "stream": false
   }
 }
